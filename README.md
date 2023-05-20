@@ -1,6 +1,7 @@
 Hello! My name is Bautista Bauzá.
 -------------------------------------------------------------------------------------------------
 Also known as bautistax on Github.
+
 Who I am?
 -------------------------------------------------------------------------------------------------
 I am a Full Stack programmer focused on Frontend design.
@@ -19,7 +20,7 @@ My main goal is to impact the world of programming, achieving great things.
 
 Not only do I enjoy programming because of the great demand for work in the market. But I really love being able to learn new things all the time, about the languages I like and being able to create projects that are useful in the world.
 
-What technologies do I use?
+What technologies do I use? 
 -----------------------------------------------------------------------------------------------------
 Henry's Bootcamp has allowed me to acquire the fundamental knowledge and experience to launch my career 🚀. The main technologies I use are:
 .Javascript
