@@ -23,16 +23,25 @@ Not only do I enjoy programming because of the great demand for work in the mark
 What technologies do I use? 
 -----------------------------------------------------------------------------------------------------
 Henry's Bootcamp has allowed me to acquire the fundamental knowledge and experience to launch my career 🚀. The main technologies I use are:
-.Javascript
-.React.js
-.Redux
-.HTML
-.CSS
-.GIT
-.Node.js
-.Express.js
-.Sequelize
-.PostgreSQL
+•Javascript
+
+•React.js
+
+•Redux
+
+•HTML
+
+•CSS
+
+•GIT
+
+•Node.js
+
+•Express.js
+
+•Sequelize
+
+•PostgreSQL
 
 Among other tools I also have knowledge in TypeScript, Bootstrap.
 
