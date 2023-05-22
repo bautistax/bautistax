@@ -49,7 +49,8 @@ Among other tools I also have knowledge in TypeScript, Bootstrap.
 
 Contact me!
 -------------------------------------------------------------------------------------------------------
-Linkedin: [linkedin.com/in/bautista-bauzá-8ba37325b](https://www.linkedin.com/in/bautista-bauz%C3%A1-8ba37325b)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bautista-bauz%C3%A1-8ba37325b)
+
 Email: jbautistabauza@gmail.com
 
 
