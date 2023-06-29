@@ -45,7 +45,7 @@ Henry's Bootcamp has allowed me to acquire the fundamental knowledge and experie
 
 •PostgreSQL
 
-Among other tools I also have knowledge in TypeScript, Tailwind CSS.
+I am also generating knowledge with Typescript and Tailwind CSS.
 
 Contact me!
 -------------------------------------------------------------------------------------------------------
